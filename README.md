@@ -4,6 +4,10 @@ Repositório criado para efetuar as entregas de exercícios propostos pela be.ac
 
 ## Aula de comandos do git
 
+Configurando usuário e email
+
+	git config --global user.name "nome"
+	git config --global user.email "contato@email.com"
 
 Cria um repositório e inicia
 
@@ -59,3 +63,16 @@ Une um branch indicado ao atual
 
 	git merge nome-do-branch
 
+## Repositório do github no computador
+
+Clona um repositório do github para o computador
+
+	git clone codigo-do-repositório
+
+Mostra os nomes/url dos repositórios remotos
+
+	git remote -v
+
+"Empurra" a alteração para o github
+
+	git push
