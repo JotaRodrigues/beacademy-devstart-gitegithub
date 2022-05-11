@@ -4,6 +4,7 @@ Repositório criado para efetuar as entregas de exercícios propostos pela be.ac
 
 ## Aula de comandos do git
 
+
 Cria um repositório e inicia
 
 	git init
