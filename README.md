@@ -73,6 +73,10 @@ Mostra os nomes/url dos repositórios remotos
 
 	git remote -v
 
+Altera o endereço url do repositório
+
+	git remote set-url origin new-url
+
 "Empurra" a alteração para o github
 
 	git push
